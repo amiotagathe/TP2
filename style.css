@@ -1,12 +1,20 @@
 #container
 {
 	margin: 0 30px;
+<<<<<<< HEAD
 	background-color: darkcyan;
+=======
+	background: coral;
+>>>>>>> 9f523980e69e3526eb60d045fa5a20640a41e2f3
 }
 
 #header
 {
+<<<<<<< HEAD
 	background-color:darkslategrey;
+=======
+	background: coral;
+>>>>>>> 9f523980e69e3526eb60d045fa5a20640a41e2f3
 	padding: 20px;
 }
 
